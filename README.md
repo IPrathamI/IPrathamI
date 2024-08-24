@@ -1,6 +1,6 @@
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Pratham.+How's+it+going%3F" alt="Typing SVG" /></a></h1>
-<h3 align="center">Passionate Cyber Security Enthusiast | Aspiring to Secure the Digital World.</h3>
+
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 2px;">
